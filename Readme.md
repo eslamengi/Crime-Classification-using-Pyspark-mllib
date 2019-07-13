@@ -67,6 +67,3 @@ The submitted probabilities for a given incident are not required to sum to one 
 4- Readme
 
 
-```python
-
-```
